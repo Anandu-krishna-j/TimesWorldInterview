@@ -1,0 +1,1 @@
+export const COUNTRY_API_URL = "https://restcountries.com/v2/all?fields=name,region,flag";
